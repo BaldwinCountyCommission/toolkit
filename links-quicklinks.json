@@ -1,0 +1,9 @@
+[
+  { "label": "Entra",          "icon": "fa-brands fa-microsoft",          "action": "newtab", "url": "https://entra.microsoft.com/" },
+  { "label": "Intune",         "icon": "fa-solid fa-mobile-screen",       "action": "newtab", "url": "https://intune.microsoft.com/" },
+  { "label": "Outlook Web",    "icon": "fa-regular fa-envelope",          "action": "newtab", "url": "https://outlook.com/baldwincountyal.gov" },
+  { "label": "Executime",      "icon": "fa-solid fa-clock",               "action": "newtab", "url": "https://executime.internal.co.baldwin.al.us:7120/ExecuTime/Index.do" },
+  { "label": "Munis",          "icon": "fa-solid fa-file-invoice-dollar", "action": "newtab", "url": "https://tylerhub.internal.co.baldwin.al.us/" },
+  { "label": "NinjaOne",       "icon": "fa-solid fa-user-ninja",          "action": "newtab", "url": "https://baldwincountyal.rmmservices.net/" },
+  { "label": "Knox Enrollment","icon": "fa-brands fa-android",            "action": "shadowbox", "target": "btnKnoxEnroll" }
+]

@@ -1,0 +1,10 @@
+[
+  { "label": "Defender",                  "icon": "fa-solid fa-shield",               "action": "newtab", "url": "https://security.microsoft.com/" },
+  { "label": "Purview",                   "icon": "fa-brands fa-searchengin",         "action": "newtab", "url": "https://purview.microsoft.com/" },
+  { "label": "Malcolm",                   "icon": "fa-solid fa-m",                    "action": "newtab", "url": "https://bccmalcolm.internal.co.baldwin.al.us/" },
+  { "label": "Identity Protection",       "icon": "fa-solid fa-user-shield",          "action": "newtab", "url": "https://portal.atp.azure.com/" },
+  { "label": "Domain Abuse",              "icon": "fa-solid fa-flag",                 "action": "newtab", "url": "https://acidtool.com/" },
+  { "label": "Samsung Knox",              "icon": "fa-brands fa-android",             "action": "newtab", "url": "https://central.samsungknox.com/" },
+  { "label": "Email Domain Allow/Block",  "icon": "fa-solid fa-filter-circle-xmark",  "action": "newtab", "url": "https://security.microsoft.com/tenantAllowBlockList?viewid=Sender&tid=a1dbbb3c-47f8-420e-932c-bb4942e61768" },
+  { "label": "Launch Signing Tool",       "icon": "fa-solid fa-file-signature",       "action": "protocol", "url": "toolkit://sign-script" }
+]
