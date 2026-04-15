@@ -2,7 +2,7 @@
   { "label": "Cohesity 1",      "icon": "fa-solid fa-database",       "action": "newtab", "url": "https://bcccohesity1.internal.co.baldwin.al.us/" },
   { "label": "Cohesity 2",      "icon": "fa-solid fa-database",       "action": "newtab", "url": "https://bcccohesity2.internal.co.baldwin.al.us/" },
   { "label": "Helios",          "icon": "fa-solid fa-cloud",          "action": "newtab", "url": "https://helios.cohesity.com/data-cloud/" },
-  { "label": "GitHub",          "icon": "fa-brands fa-github",        "action": "newtab", "url": "https://github.com/enterprises/Baldwin-County-Commission" },
+  { "label": "GitHub",          "icon": "fa-brands fa-github",        "action": "newtab", "url": "https://github.com/orgs/BaldwinCountyCommission/sso" },
   { "label": "Ninja Discord",   "icon": "fa-brands fa-discord",       "action": "newtab", "url": "https://discord.com/channels/676451788395642880/1175944618458746910" },
   { "label": "Google Admin",    "icon": "fa-brands fa-google",        "action": "newtab", "url": "https://admin.google.com/" },
   { "label": "Integrated Apps", "icon": "fa-solid fa-puzzle-piece",   "action": "newtab", "url": "https://admin.microsoft.com/#/Settings/IntegratedApps" },
