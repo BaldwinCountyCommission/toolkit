@@ -1,10 +1,10 @@
 [
-  { "label": "Screen Test",             "icon": "fa-solid fa-display",             "action": "shadowbox", "target": "btnScreenTest" },
-  { "label": "Mic Test",                "icon": "fa-solid fa-microphone",          "action": "shadowbox", "target": "btnMicTest" },
-  { "label": "Camera Test",             "icon": "fa-solid fa-video",               "action": "shadowbox", "target": "btnCamTest" },
-  { "label": "Speed Test",              "icon": "fa-solid fa-gauge",               "action": "shadowbox", "target": "btnSpeedTest" },
-  { "label": "Keyboard Test",           "icon": "fa-solid fa-keyboard",            "action": "shadowbox", "target": "btnKeyTest" },
-  { "label": "IP Lookup",               "icon": "fa-solid fa-network-wired",       "action": "shadowbox", "target": "btnIPLookup" },
-  { "label": "Message Header Analyzer", "icon": "fa-solid fa-envelope-open-text",  "action": "shadowbox", "target": "btnMHA" },
-  { "label": "Launch PIM",              "icon": "fa-solid fa-unlock-keyhole",    "action": "protocol", "url": "toolkit://launch-pim" }
+  { "label": "Screen Test",             "icon": "fa-solid fa-display",            "action": "shadowbox", "target": "btnScreenTest" },
+  { "label": "Mic Test",                "icon": "fa-solid fa-microphone",         "action": "shadowbox", "target": "btnMicTest" },
+  { "label": "Camera Test",             "icon": "fa-solid fa-video",              "action": "shadowbox", "target": "btnCamTest" },
+  { "label": "Speed Test",              "icon": "fa-solid fa-gauge",              "action": "shadowbox", "target": "btnSpeedTest" },
+  { "label": "Keyboard Test",           "icon": "fa-solid fa-keyboard",           "action": "shadowbox", "target": "btnKeyTest" },
+  { "label": "IP Lookup",               "icon": "fa-solid fa-network-wired",      "action": "shadowbox", "target": "btnIPLookup" },
+  { "label": "Message Header Analyzer", "icon": "fa-solid fa-envelope-open-text", "action": "shadowbox", "target": "btnMHA" },
+  { "label": "Launch PIM",              "icon": "fa-solid fa-unlock-keyhole",     "action": "protocol",  "url": "toolkit://launch-pim" }
 ]
