@@ -6,5 +6,5 @@
   { "label": "Keyboard Test",           "icon": "fa-solid fa-keyboard",            "action": "shadowbox", "target": "btnKeyTest" },
   { "label": "IP Lookup",               "icon": "fa-solid fa-network-wired",       "action": "shadowbox", "target": "btnIPLookup" },
   { "label": "Message Header Analyzer", "icon": "fa-solid fa-envelope-open-text",  "action": "shadowbox", "target": "btnMHA" },
-  { "label": "Launch PIM",              "icon": "fa-solid fa-unlock-keyhole",    "action": "protocol", "target": "toolkit://launch-pim" }
+  { "label": "Launch PIM",              "icon": "fa-solid fa-unlock-keyhole",    "action": "protocol", "url": "toolkit://launch-pim" }
 ]
