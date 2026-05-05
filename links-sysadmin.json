@@ -6,6 +6,6 @@
   { "label": "Ninja Discord",   "icon": "fa-brands fa-discord",       "action": "newtab",    "url": "https://discord.com/channels/676451788395642880/1175944618458746910" },
   { "label": "Google Admin",    "icon": "fa-brands fa-google",        "action": "newtab",    "url": "https://admin.google.com/" },
   { "label": "Integrated Apps", "icon": "fa-solid fa-puzzle-piece",   "action": "newtab",    "url": "https://admin.microsoft.com/#/Settings/IntegratedApps" },
-  { "label": "Dashboard",       "icon": "fa-solid fa-chart-line",     "action": "shadowbox", "target": "btnDashboard" },
+  { "label": "Server Outage Tracker",       "icon": "fa-solid fa-chart-line",     "action": "shadowbox", "target": "btnDashboard" },
   { "label": "Warranty Report", "icon": "fa-solid fa-file-contract",  "action": "shadowbox", "target": "btnWarrantyReport" }
 ]
