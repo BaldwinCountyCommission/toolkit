@@ -8,5 +8,5 @@
   { "label": "Integrated Apps", "icon": "fa-solid fa-puzzle-piece",   "action": "newtab", "url": "https://admin.microsoft.com/#/Settings/IntegratedApps" },
   { "label": "TAPS Audit", "icon": "fa-solid fa-users-viewfinder",   "action": "newtab", "url": "https://entra.microsoft.com/#blade/Microsoft_AAD_IAM/AuditLogList.ReactView/dateStyle/local/dateRange/%7B%22selectedChoice%22%3A%22last7days%22%7D/activity/Admin%20registered%20security%20info/activeTabType/main/selectedOperatorMap/%7B%7D" },
   { "label": "Warranty Report", "icon": "fa-solid fa-file-contract",  "action": "shadowbox", "target": "btnWarrantyReport" }
-  { "label": "Server Outage Tracker", "icon": "fa-solid fa-plug-circle-exclamation",  "action": "shadowbox", "url": "btnOutageTracker" }
+  { "label": "Server Outage Tracker", "icon": "fa-solid fa-plug-circle-exclamation",  "action": "shadowbox", "target": "btnOutageTracker" }
 ]
