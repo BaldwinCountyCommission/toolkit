@@ -7,6 +7,6 @@
   { "label": "Google Admin",    "icon": "fa-brands fa-google",        "action": "newtab",    "url": "https://admin.google.com/" },
   { "label": "Integrated Apps", "icon": "fa-solid fa-puzzle-piece",   "action": "newtab",    "url": "https://admin.microsoft.com/#/Settings/IntegratedApps" },
   { "label": "Server Outage Tracker",       "icon": "fa-solid fa-chart-line",     "action": "shadowbox", "target": "btnDashboard" },
-  { "label": "Warranty Report", "icon": "fa-solid fa-file-contract",  "action": "shadowbox", "target": "btnWarrantyReport" }
-  { "label": "Taps Audit", "icon": "fa-brands fa-windows",   "action": "newtab",    "url": "https://entra.microsoft.com/#blade/Microsoft_AAD_IAM/AuditLogList.ReactView/dateStyle/local/dateRange/%7B%22selectedChoice%22%3A%22last24hours%22%7D/categoryV2/all/service/all/activity/Admin%20registered%20security%20info/activeTabType/main" },
+  { "label": "Warranty Report", "icon": "fa-solid fa-file-contract",  "action": "shadowbox", "target": "btnWarrantyReport" },
+  { "label": "Taps Audit", "icon": "fa-brands fa-windows",   "action": "newtab",    "url": "https://entra.microsoft.com/#blade/Microsoft_AAD_IAM/AuditLogList.ReactView/dateStyle/local/dateRange/%7B%22selectedChoice%22%3A%22last24hours%22%7D/categoryV2/all/service/all/activity/Admin%20registered%20security%20info/activeTabType/main" }
 ]
