@@ -1,0 +1,20 @@
+[
+  {
+    "label": "Troubleshooting Mode",
+    "description": "Temporarily disables Tamper Protection and Real-Time Monitoring for troubleshooting",
+    "icon": "fa-solid fa-bug",
+    "code": "Set-MpPreference -DisableTamperProtection $true\nSet-MpPreference -DisableRealtimeMonitoring $true -Force"
+  },
+  {
+    "label": "Reregister / Company Portal Issues",
+    "description": "Forces device re-registration with Entra ID — resolves most Company Portal and compliance issues",
+    "icon": "fa-solid fa-building",
+    "code": "dsregcmd /forcerecovery"
+  },
+  {
+    "label": "Top 5 Memory-Hogging Processes",
+    "description": "Identifies the five processes consuming the most RAM",
+    "icon": "fa-solid fa-memory",
+    "code": "Get-Process | Sort-Object WorkingSet -Descending | Select-Object -First 5 Name, @{Name=\"RAM (MB)\"; Expression={[math]::Round($_.WorkingSet / 1MB, 2)}}"
+  }
+]
