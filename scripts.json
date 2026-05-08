@@ -1,7 +1,7 @@
 [
   {
     "label": "Troubleshooting Mode",
-    "description": "Temporarily disables Tamper Protection and Real-Time Monitoring for troubleshooting",
+    "description": "Temporarily disables Tamper Protection and Real-Time Monitoring for troubleshooting. Be advised SecOps will need to place the device in this mode before it can be activated on the machine.",
     "icon": "fa-solid fa-bug",
     "code": "Set-MpPreference -DisableTamperProtection $true\nSet-MpPreference -DisableRealtimeMonitoring $true -Force"
   },
