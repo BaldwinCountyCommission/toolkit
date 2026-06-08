@@ -6,6 +6,6 @@
   { "label": "Munis",          "icon": "fa-solid fa-file-invoice-dollar", "action": "newtab", "url": "https://tylerhub.internal.co.baldwin.al.us/" },
   { "label": "NinjaOne",       "icon": "fa-solid fa-user-ninja",          "action": "newtab", "url": "https://launcher.myapps.microsoft.com/api/signin/a5cdd3fb-233e-4c8c-8f69-21b1efbcc543?tenantId=a1dbbb3c-47f8-420e-932c-bb4942e61768" },
   { "label": "Knox Enrollment","icon": "fa-brands fa-android",            "action": "shadowbox", "target": "btnKnoxEnroll" },
-  { "label": "BCC Forms Hub",  "icon": "fa-brands fa-wpforms",            "action": "newtab", "url": "https://bccforms.internal.co.baldwin.al.us/" },
+  { "label": "Forms Hub",    "icon": "fa-brands fa-wpforms",          "action": "newtab", "url": "https://bccforms.internal.co.baldwin.al.us/" },
     { "label": "Adept CBT Nuggets",          "icon": "fa-solid fa-user-graduate", "action": "newtab", "url": "https://learn.adept.at/login" }
 ]
