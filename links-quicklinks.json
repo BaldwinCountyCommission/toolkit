@@ -52,5 +52,11 @@
     "icon": "fa-solid fa-user-graduate",
     "url": "https://learn.adept.at/login",
     "action": "newtab"
+  },
+  {
+    "label": "Leave Calendar",
+    "icon": "fa-regular fa-calendar-days",
+    "url": "https://leavecalendar.internal.co.baldwin.al.us/LeaveRequest/ViewCalendar",
+    "action": "newtab"
   }
 ]
