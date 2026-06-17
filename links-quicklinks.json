@@ -58,5 +58,11 @@
     "icon": "fa-regular fa-calendar-days",
     "url": "https://leavecalendar.internal.co.baldwin.al.us/LeaveRequest/ViewCalendar",
     "action": "newtab"
+  },
+  {
+    "label": "Signature Generator",
+    "icon": "fa-solid fa-file-signature",
+    "url": "https://toolkit.internal.co.baldwin.al.us/signature/",
+    "action": "newtab"
   }
 ]
