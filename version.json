@@ -8,6 +8,50 @@
     {
       "version": "4.1",
       "notes": "Added new AI Adoption Portal"
+    },    {
+      "version": "4.0",
+      "notes": "New redesigned build, placeholder hosting during refresh, Scripts repository, and the ability to re-pull a page without refreshing"
+    },
+    {
+      "version": "3.18",
+      "notes": "Building Locator tab — search by name, department, building, or city from local CSV; Ninja Device Lookup; Defender Device Search updated"
+    },
+    {
+      "version": "3.17",
+      "notes": "Dynamic link loading — all pane buttons pulled from GitHub JSON at page load"
+    },
+    {
+      "version": "3.16",
+      "notes": "Printer Lookup — local CSV via scheduled export; search by name, IP, or MAC"
+    },
+    {
+      "version": "3.15",
+      "notes": "SysAdmin quick links pane; fixed status banner fetch URL"
+    },
+    {
+      "version": "3.14",
+      "notes": "Consolidated Password Generator — Easy, Standard, and Complex modes"
+    },
+    {
+      "version": "3.12",
+      "notes": "Dark mode toggle — CSS variable-driven theming, localStorage persistence"
+    },
+    {
+      "version": "3.11",
+      "notes": "Migrated to Entra App Roles via Header-based SSO; shared-secret proxy guard"
+    },
+    {
+      "version": "3.10",
+      "notes": "Message Header Analyzer — SPF/DKIM/DMARC auth, delay chain, all headers"
+    },
+    {
+      "version": "3.09",
+      "notes": "Easter egg"
+    },
+    {
+      "version": "3.00",
+      "notes": "Global Tools section — Screen, Mic, Camera, Speed Test"
     }
+
   ]
 }
