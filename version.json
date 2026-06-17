@@ -1,0 +1,13 @@
+﻿{
+  "current": "4.15",
+  "history": [
+    {
+      "version": "4.15",
+      "notes": "Added new AI Adoption Portal PDF export"
+    },
+    {
+      "version": "4.1",
+      "notes": "Added new AI Adoption Portal"
+    }
+  ]
+}
