@@ -2,6 +2,14 @@
   "current": "4.2",
   "history": [
     {
+      "version": "4.2",
+      "notes": "Updated Dashboard features and added better versioning to toolkit"
+    },
+    {
+      "version": "4.1",
+      "notes": "Added new AI Dashboard"
+    },
+    {
       "version": "4.0",
       "notes": "New redesigned build, placeholder hosting during refresh, Scripts repository, and the ability to re-pull a page without refreshing"
     },
@@ -44,14 +52,6 @@
     {
       "version": "3.00",
       "notes": "Global Tools section ï¿½ Screen, Mic, Camera, Speed Test"
-    },
-    {
-      "version": "4.1",
-      "notes": "Added new AI Dashboard"
-    },
-    {
-      "version": "4.2",
-      "notes": "Updated Dashboard features and added better versioning to toolkit"
     }
   ]
 }
