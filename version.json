@@ -1,5 +1,5 @@
 ﻿{
-  "current": "4.5",
+  "current": "4.2",
   "history": [
     {
       "version": "4.2",
@@ -52,10 +52,6 @@
     {
       "version": "3.00",
       "notes": "Global Tools section ï¿½ Screen, Mic, Camera, Speed Test"
-    },
-    {
-      "version": "4.5",
-      "notes": "testing"
     }
   ]
 }
