@@ -2,6 +2,10 @@
   "current": "4.2",
   "history": [
     {
+      "version": "4.21",
+      "notes": "Updated backend to speed up loading and prompt for reloading on version changes."
+    },
+    {
       "version": "4.2",
       "notes": "Updated Dashboard features and added better versioning to toolkit"
     },
