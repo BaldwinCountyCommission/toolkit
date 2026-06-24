@@ -1,6 +1,10 @@
 ﻿{
-  "current": "4.21",
+  "current": "4.22",
   "history": [
+    {
+      "version": "4.22",
+      "notes": "Added new reporting section"
+    },
     {
       "version": "4.21",
       "notes": "Updated backend to speed up loading and prompt for reloading on version changes."
