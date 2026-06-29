@@ -1,13 +1,74 @@
-[
-  { "label": "Cohesity 1",      "icon": "fa-solid fa-database",       "action": "newtab",    "url": "https://bcccohesity1.internal.co.baldwin.al.us/" },
-  { "label": "Cohesity 2",      "icon": "fa-solid fa-database",       "action": "newtab",    "url": "https://bcccohesity2.internal.co.baldwin.al.us/" },
-  { "label": "Helios",          "icon": "fa-solid fa-cloud",          "action": "newtab",    "url": "https://helios.cohesity.com/data-cloud/" },
-  { "label": "GitHub",          "icon": "fa-brands fa-github",        "action": "newtab",    "url": "https://github.com/enterprises/Baldwin-County-Commission" },
-  { "label": "Ninja Discord",   "icon": "fa-brands fa-discord",       "action": "newtab",    "url": "https://discord.com/channels/676451788395642880/1175944618458746910" },
-  { "label": "Google Admin",    "icon": "fa-brands fa-google",        "action": "newtab",    "url": "https://admin.google.com/" },
-  { "label": "Integrated Apps", "icon": "fa-solid fa-puzzle-piece",   "action": "newtab",    "url": "https://admin.microsoft.com/#/Settings/IntegratedApps" },
-  { "label": "Server Outage Tracker",       "icon": "fa-solid fa-chart-line",     "action": "shadowbox", "target": "btnDashboard" },
-  { "label": "Warranty Report", "icon": "fa-solid fa-file-contract",  "action": "shadowbox", "target": "btnWarrantyReport" },
-  { "label": "Display Calendar Builder",    "icon": "fa-solid fa-wrench",        "action": "newtab",    "url": "https://bccappportal.internal.co.baldwin.al.us/calbuilder/" },
-  { "label": "Taps Audit", "icon": "fa-solid fa-arrow-down-up-lock",   "action": "newtab",    "url": "https://entra.microsoft.com/#blade/Microsoft_AAD_IAM/AuditLogList.ReactView/dateStyle/local/dateRange/%7B%22selectedChoice%22%3A%22last24hours%22%7D/categoryV2/all/service/all/activity/Admin%20registered%20security%20info/activeTabType/main" }
+﻿[
+  {
+    "label": "Cohesity 1",
+    "icon": "fa-solid fa-database",
+    "url": "https://bcccohesity1.internal.co.baldwin.al.us/",
+    "action": "newtab"
+  },
+  {
+    "label": "Cohesity 2",
+    "icon": "fa-solid fa-database",
+    "url": "https://bcccohesity2.internal.co.baldwin.al.us/",
+    "action": "newtab"
+  },
+  {
+    "label": "Helios",
+    "icon": "fa-solid fa-cloud",
+    "url": "https://helios.cohesity.com/data-cloud/",
+    "action": "newtab"
+  },
+  {
+    "label": "GitHub",
+    "icon": "fa-brands fa-github",
+    "url": "https://github.com/enterprises/Baldwin-County-Commission",
+    "action": "newtab"
+  },
+  {
+    "label": "Ninja Discord",
+    "icon": "fa-brands fa-discord",
+    "url": "https://discord.com/channels/676451788395642880/1175944618458746910",
+    "action": "newtab"
+  },
+  {
+    "label": "Google Admin",
+    "icon": "fa-brands fa-google",
+    "url": "https://admin.google.com/",
+    "action": "newtab"
+  },
+  {
+    "label": "Integrated Apps",
+    "icon": "fa-solid fa-puzzle-piece",
+    "url": "https://admin.microsoft.com/#/Settings/IntegratedApps",
+    "action": "newtab"
+  },
+  {
+    "label": "Server Outage Tracker",
+    "icon": "fa-solid fa-chart-line",
+    "action": "shadowbox",
+    "target": "btnDashboard"
+  },
+  {
+    "label": "Warranty Report",
+    "icon": "fa-solid fa-file-contract",
+    "action": "shadowbox",
+    "target": "btnWarrantyReport"
+  },
+  {
+    "label": "Display Calendar Builder",
+    "icon": "fa-solid fa-wrench",
+    "url": "https://bccappportal.internal.co.baldwin.al.us/calbuilder/",
+    "action": "newtab"
+  },
+  {
+    "label": "Taps Audit",
+    "icon": "fa-solid fa-arrow-down-up-lock",
+    "url": "https://entra.microsoft.com/#blade/Microsoft_AAD_IAM/AuditLogList.ReactView/dateStyle/local/dateRange/%7B%22selectedChoice%22%3A%22last24hours%22%7D/categoryV2/all/service/all/activity/Admin%20registered%20security%20info/activeTabType/main",
+    "action": "newtab"
+  },
+  {
+    "label": "Cloudflare",
+    "icon": "fa-brands fa-cloudflare",
+    "url": "https://dash.cloudflare.com/",
+    "action": "newtab"
+  }
 ]
