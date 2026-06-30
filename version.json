@@ -1,6 +1,10 @@
 ﻿{
-  "current": "4.23",
+  "current": "4.24",
   "history": [
+    {
+      "version": "4.24",
+      "notes": "Added more reports to the Report Center"
+    },
     {
       "version": "4.23",
       "notes": "New PDF option added to warranty report"
