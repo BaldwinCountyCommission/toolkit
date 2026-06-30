@@ -70,5 +70,11 @@
     "icon": "fa-brands fa-cloudflare",
     "url": "https://dash.cloudflare.com/",
     "action": "newtab"
+  },
+  {
+    "label": "Genetec Web (new)",
+    "icon": "fa-thin fa-camera-cctv",
+    "url": "https://bccgendsf01.internal.co.baldwin.al.us/WebApp/",
+    "action": "newtab"
   }
 ]
