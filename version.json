@@ -1,6 +1,10 @@
 ﻿{
-  "current": "4.24",
+  "current": "4.25",
   "history": [
+    {
+      "version": "4.25",
+      "notes": "Now detects if your Entra session has closed and will force a new login."
+    },
     {
       "version": "4.24",
       "notes": "Added more reports to the Report Center"
