@@ -2,6 +2,10 @@
   "current": "4.25",
   "history": [
     {
+      "version": "4.30",
+      "notes": "At A Glance has been added for all of CIS."
+    },
+    {
       "version": "4.25",
       "notes": "Now detects if your Entra session has closed and will force a new login."
     },
