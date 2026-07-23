@@ -1,6 +1,10 @@
 ﻿{
-  "current": "4.25",
+  "current": "4.31",
   "history": [
+    {
+      "version": "4.31",
+      "notes": "Permission Updates"
+    },
     {
       "version": "4.30",
       "notes": "At A Glance has been added for all of CIS."
