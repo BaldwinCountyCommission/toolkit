@@ -1,6 +1,10 @@
 ﻿{
-  "current": "4.31",
+  "current": "4.40",
   "history": [
+    {
+      "version": "4.40",
+      "notes": "Backend engine improvements and Universal Search"
+    },
     {
       "version": "4.31",
       "notes": "Permission Updates"
