@@ -3,7 +3,7 @@
   "history": [
     {
       "version": "4.40",
-      "notes": "Backend engine improvements and Universal Search"
+      "notes": "Backend engine improvements, Added patch tuesday countdown and Universal Search"
     },
     {
       "version": "4.31",
