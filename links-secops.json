@@ -52,5 +52,11 @@
     "icon": "fa-solid fa-building-shield",
     "url": "https://bccmdeiot.internal.co.baldwin.al.us/",
     "action": "newtab"
+  },
+  {
+    "label": "SOC Playbook",
+    "icon": "fa-solid fa-building-shield",
+    "url": "https://socplaybook.quicksite.cc/#intro",
+    "action": "newtab"
   }
 ]
