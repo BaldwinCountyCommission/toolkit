@@ -64,5 +64,11 @@
     "icon": "fa-solid fa-file-signature",
     "url": "https://toolkit.internal.co.baldwin.al.us/signature/",
     "action": "newtab"
+  },
+  {
+    "label": "CISO Assistant",
+    "icon": "fa-brands fa-octopus-deploy",
+    "url": "https://bccmalcolm:9447/",
+    "action": "newtab"
   }
 ]
