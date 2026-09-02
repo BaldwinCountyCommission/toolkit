@@ -58,5 +58,11 @@
     "icon": "fa-solid fa-tower-broadcast",
     "action": "shadowbox",
     "target": "btnPhonetic"
+  },
+  {
+    "label": "CVSS Decoder",
+    "icon": "fa-solid fa-shield-halved",
+    "action": "shadowbox",
+    "target": "btnCvss"
   }
 ]
