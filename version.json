@@ -1,6 +1,10 @@
 ﻿{
-  "current": "4.40",
+  "current": "4.50",
   "history": [
+    {
+      "version": "4.5",
+      "notes": "Added new project dashboard for systems."
+    },
     {
       "version": "4.40",
       "notes": "Backend engine improvements, Added patch tuesday countdown and Universal Search"
