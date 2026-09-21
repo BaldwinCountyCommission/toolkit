@@ -64,5 +64,11 @@
     "icon": "fa-solid fa-shield-halved",
     "action": "shadowbox",
     "target": "btnCvss"
-  }
+  },
+   {
+  "label": "Ping Test",
+  "icon": "fa-solid fa-satellite-dish",
+  "action": "shadowbox",
+  "target": "btnPing"
+}
 ]
