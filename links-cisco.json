@@ -1,0 +1,8 @@
+﻿[
+  {
+    "label": "Google",
+    "icon": "fa-solid fa-network-wired",
+    "url": "https://google.com",
+    "action": "newtab"
+  }
+]
