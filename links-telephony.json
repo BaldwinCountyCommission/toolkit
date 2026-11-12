@@ -1,0 +1,8 @@
+﻿[
+  {
+    "label": "Google",
+    "icon": "fa-solid fa-ethernet",
+    "url": "https://google.com",
+    "action": "newtab"
+  }
+]
