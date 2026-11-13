@@ -10,5 +10,11 @@
     "icon": "fa-solid fa-network-wired",
     "url": "https://unifi.ui.com/",
     "action": "newtab"
+  },
+  {
+    "label": "Meraki Dashboard",
+    "icon": "fa-solid fa-link",
+    "url": "https://n1034.dashboard.meraki.com/",
+    "action": "newtab"
   }
 ]
