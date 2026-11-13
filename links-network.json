@@ -1,7 +1,14 @@
 ﻿[
   {
     "label": "Cradlepoint - Ericsson NetCloud",
+    "icon": "fa-solid fa-globe",
     "url": "https://www.us0.cradlepointecm.com/",
+    "action": "newtab"
+  },
+  {
+    "label": "Unifi",
+    "icon": "fa-solid fa-network-wired",
+    "url": "https://unifi.ui.com/",
     "action": "newtab"
   }
 ]
