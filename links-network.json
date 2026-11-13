@@ -64,5 +64,35 @@
     "icon": "fa-solid fa-link",
     "url": "https://app.thousandeyes.com/login",
     "action": "newtab"
+  },
+  {
+    "label": "Panorama",
+    "icon": "fa-solid fa-server",
+    "url": "https://10.10.20.101/php/login.php",
+    "action": "newtab"
+  },
+  {
+    "label": "BM FW",
+    "icon": "fa-solid fa-shield-halved",
+    "url": "https://10.6.3.250/php/login.php",
+    "action": "newtab"
+  },
+  {
+    "label": "BM HA",
+    "icon": "fa-solid fa-shield-halved",
+    "url": "https://10.6.3.251/php/login.php",
+    "action": "newtab"
+  },
+  {
+    "label": "EOC FW",
+    "icon": "fa-solid fa-shield-halved",
+    "url": "https://10.6.3.252/php/login.php",
+    "action": "newtab"
+  },
+  {
+    "label": "EOC HA",
+    "icon": "fa-solid fa-shield-halved",
+    "url": "https://10.6.3.253/php/login.php",
+    "action": "newtab"
   }
 ]
