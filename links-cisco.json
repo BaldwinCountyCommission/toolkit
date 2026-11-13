@@ -50,5 +50,23 @@
     "icon": "fa-solid fa-link",
     "url": "https://mycase.cloudapps.cisco.com/case",
     "action": "newtab"
+  },
+  {
+    "label": "Cisco License Central - MCE",
+    "icon": "fa-solid fa-link",
+    "url": "https://software.cisco.com/clc/overview",
+    "action": "newtab"
+  },
+  {
+    "label": "Software Downloads",
+    "icon": "fa-solid fa-link",
+    "url": "https://software.cisco.com/download/home",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco Support",
+    "icon": "fa-solid fa-link",
+    "url": "https://www.cisco.com/c/en/us/support/index.html",
+    "action": "newtab"
   }
 ]
