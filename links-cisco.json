@@ -10,5 +10,45 @@
     "icon": "fa-solid fa-link",
     "url": "https://cway.cisco.com/mynotifications/",
     "action": "newtab"
+  },
+  {
+    "label": "Cisco Support Tools Catalog",
+    "icon": "fa-solid fa-link",
+    "url": "https://www.cisco.com/c/en/us/support/web/tools-catalog.html",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco Commerce CCW - Subscriptions & Services",
+    "url": "https://ccrc.cisco.com/ccwr/ec-portal",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco IQ",
+    "url": "https://iq.cisco.com/login/",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco AI Assistant For Support",
+    "icon": "fa-solid fa-link",
+    "url": "https://rma-ai.cisco.com/app/v1/chat?id=8c0878d4-b4a6-44cf-a1a2-04cf8600adc0",
+    "action": "newtab"
+  },
+  {
+    "label": "AP Channel Lookup",
+    "icon": "fa-solid fa-link",
+    "url": "https://apchannels.cisco.com/",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco POWR Tool - Returns",
+    "icon": "fa-solid fa-link",
+    "url": "https://www.cisco-global-returns.com/gct/",
+    "action": "newtab"
+  },
+  {
+    "label": "Support Case Manager",
+    "icon": "fa-solid fa-link",
+    "url": "https://mycase.cloudapps.cisco.com/case",
+    "action": "newtab"
   }
 ]
