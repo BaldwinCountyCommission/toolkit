@@ -68,5 +68,11 @@
     "icon": "fa-solid fa-link",
     "url": "https://www.cisco.com/c/en/us/support/index.html",
     "action": "newtab"
+  },
+  {
+    "label": "Estimate Creator - Commerce Workspace",
+    "icon": "fa-solid fa-link",
+    "url": "https://apps.cisco.com/Commerce/home",
+    "action": "newtab"
   }
 ]
