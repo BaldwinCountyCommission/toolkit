@@ -74,5 +74,11 @@
     "icon": "fa-solid fa-link",
     "url": "https://apps.cisco.com/Commerce/home",
     "action": "newtab"
+  },
+  {
+    "label": "Device Coverage Checker - CWAY",
+    "icon": "fa-solid fa-link",
+    "url": "https://cway.cisco.com/sncheck/",
+    "action": "newtab"
   }
 ]
