@@ -5,15 +5,15 @@
     "action": "newtab"
   },
   {
-    "label": "Cisco Commerce Subscriptions and Services",
+    "label": "Support Case Manager",
     "icon": "fa-solid fa-link",
-    "url": "https://ccrc.cisco.com/ccwr/ec-portal",
+    "url": "https://mycase.cloudapps.cisco.com/case",
     "action": "newtab"
   },
   {
-    "label": "Cisco Security Release - Notifications Setup",
+    "label": "Cisco Commerce Subscriptions and Services",
     "icon": "fa-solid fa-link",
-    "url": "https://cway.cisco.com/mynotifications/",
+    "url": "https://ccrc.cisco.com/ccwr/ec-portal",
     "action": "newtab"
   },
   {
@@ -23,14 +23,15 @@
     "action": "newtab"
   },
   {
-    "label": "Cisco Commerce CCW - Subscriptions & Services",
-    "url": "https://ccrc.cisco.com/ccwr/ec-portal",
-    "action": "newtab"
-  },
-  {
     "label": "Cisco AI Assistant For Support",
     "icon": "fa-solid fa-link",
     "url": "https://rma-ai.cisco.com/app/v1/chat?id=8c0878d4-b4a6-44cf-a1a2-04cf8600adc0",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco Security Release - Notifications Setup",
+    "icon": "fa-solid fa-link",
+    "url": "https://cway.cisco.com/mynotifications/",
     "action": "newtab"
   },
   {
@@ -43,12 +44,6 @@
     "label": "Cisco POWR Tool - Returns",
     "icon": "fa-solid fa-link",
     "url": "https://www.cisco-global-returns.com/gct/",
-    "action": "newtab"
-  },
-  {
-    "label": "Support Case Manager",
-    "icon": "fa-solid fa-link",
-    "url": "https://mycase.cloudapps.cisco.com/case",
     "action": "newtab"
   },
   {
