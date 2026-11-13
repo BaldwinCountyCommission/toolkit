@@ -1,8 +1,44 @@
 ﻿[
   {
-    "label": "Google",
-    "icon": "fa-solid fa-ethernet",
-    "url": "https://google.com",
+    "label": "Webex Contact Center Desktop",
+    "icon": "fa-address-card",
+    "url": "https://desktop.wxcc-us1.cisco.com/",
+    "action": "newtab"
+  },
+  {
+    "label": "Webex Control Hub",
+    "icon": "fa-solid fa-link",
+    "url": "https://admin.webex.com/",
+    "action": "newtab"
+  },
+  {
+    "label": "Webex CC Analyzer",
+    "icon": "fa-solid fa-link",
+    "url": "https://analyzer-v2.wxcc-us1.cisco.com/",
+    "action": "newtab"
+  },
+  {
+    "label": "Redsky 911",
+    "icon": "fa-map-marker",
+    "url": "https://wxc.e911cloud.com/login",
+    "action": "newtab"
+  },
+  {
+    "label": "Calabrio",
+    "icon": "fa-solid fa-link",
+    "url": "https://us6.calabriocloud.com/",
+    "action": "newtab"
+  },
+  {
+    "label": "Webex User Hub",
+    "icon": "fa-user",
+    "url": "https://user.webex.com/webappng/hub/welcome",
+    "action": "newtab"
+  },
+  {
+    "label": "Imagicle Portal",
+    "icon": "fa-fax",
+    "url": "https://baldwincountyal-public.imagicle.cloud/fw/frame/main.htm",
     "action": "newtab"
   }
 ]
