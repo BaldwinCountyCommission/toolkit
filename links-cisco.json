@@ -80,5 +80,11 @@
     "icon": "fa-solid fa-link",
     "url": "https://cway.cisco.com/sncheck/",
     "action": "newtab"
+  },
+  {
+    "label": "Cisco U - Training",
+    "icon": "fa-solid fa-link",
+    "url": "https://u.cisco.com/",
+    "action": "newtab"
   }
 ]
