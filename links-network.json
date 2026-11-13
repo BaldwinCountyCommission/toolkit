@@ -34,5 +34,23 @@
     "icon": "fa-solid fa-wifi",
     "url": "https://10.6.1.2/webui/",
     "action": "newtab"
+  },
+  {
+    "label": "Cisco Catalyst Center",
+    "icon": "fa-solid fa-server",
+    "url": "https://10.10.20.153/",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco ISE Primary",
+    "icon": "fa-solid fa-server",
+    "url": "https://10.10.20.152/",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco ISE Secondary",
+    "icon": "fa-solid fa-server",
+    "url": "https://10.30.21.225/",
+    "action": "newtab"
   }
 ]
