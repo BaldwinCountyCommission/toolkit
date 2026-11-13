@@ -1,5 +1,10 @@
 ﻿[
   {
+    "label": "Cisco IQ",
+    "url": "https://iq.cisco.com/login/",
+    "action": "newtab"
+  },
+  {
     "label": "Cisco Commerce Subscriptions and Services",
     "icon": "fa-solid fa-link",
     "url": "https://ccrc.cisco.com/ccwr/ec-portal",
@@ -20,11 +25,6 @@
   {
     "label": "Cisco Commerce CCW - Subscriptions & Services",
     "url": "https://ccrc.cisco.com/ccwr/ec-portal",
-    "action": "newtab"
-  },
-  {
-    "label": "Cisco IQ",
-    "url": "https://iq.cisco.com/login/",
     "action": "newtab"
   },
   {
