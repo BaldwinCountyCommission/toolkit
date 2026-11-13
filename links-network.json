@@ -52,5 +52,11 @@
     "icon": "fa-solid fa-server",
     "url": "https://10.30.21.225/",
     "action": "newtab"
+  },
+  {
+    "label": "Clouldflare",
+    "icon": "fa-solid fa-cloud",
+    "url": "https://dash.cloudflare.com/login",
+    "action": "newtab"
   }
 ]
