@@ -58,5 +58,11 @@
     "icon": "fa-solid fa-cloud",
     "url": "https://dash.cloudflare.com/login",
     "action": "newtab"
+  },
+  {
+    "label": "ThousandEyes",
+    "icon": "fa-solid fa-link",
+    "url": "https://app.thousandeyes.com/login",
+    "action": "newtab"
   }
 ]
