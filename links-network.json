@@ -94,5 +94,11 @@
     "icon": "fa-solid fa-shield-halved",
     "url": "https://10.6.3.253/php/login.php",
     "action": "newtab"
+  },
+  {
+    "label": "Palo Support",
+    "icon": "fa-solid fa-globe",
+    "url": "https://sso.paloaltonetworks.com/",
+    "action": "newtab"
   }
 ]
