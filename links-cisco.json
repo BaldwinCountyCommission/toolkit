@@ -1,8 +1,14 @@
 ﻿[
   {
-    "label": "Google",
-    "icon": "fa-solid fa-network-wired",
-    "url": "https://google.com",
+    "label": "Cisco Commerce Subscriptions and Services",
+    "icon": "fa-solid fa-link",
+    "url": "https://ccrc.cisco.com/ccwr/ec-portal",
+    "action": "newtab"
+  },
+  {
+    "label": "Cisco Security Release - Notifications Setup",
+    "icon": "fa-solid fa-link",
+    "url": "https://cway.cisco.com/mynotifications/",
     "action": "newtab"
   }
 ]
