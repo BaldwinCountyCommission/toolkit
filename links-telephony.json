@@ -1,7 +1,7 @@
 ﻿[
   {
     "label": "Webex Contact Center Desktop",
-    "icon": "fa-address-card",
+    "icon": "fa-solid fa-link",
     "url": "https://desktop.wxcc-us1.cisco.com/",
     "action": "newtab"
   },
@@ -19,7 +19,7 @@
   },
   {
     "label": "Redsky 911",
-    "icon": "fa-map-marker",
+    "icon": "fa-solid fa-link",
     "url": "https://wxc.e911cloud.com/login",
     "action": "newtab"
   },
@@ -31,13 +31,13 @@
   },
   {
     "label": "Webex User Hub",
-    "icon": "fa-user",
+    "icon": "fa-solid fa-link",
     "url": "https://user.webex.com/webappng/hub/welcome",
     "action": "newtab"
   },
   {
     "label": "Imagicle Portal",
-    "icon": "fa-fax",
+    "icon": "fa-solid fa-link",
     "url": "https://baldwincountyal-public.imagicle.cloud/fw/frame/main.htm",
     "action": "newtab"
   }
