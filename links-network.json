@@ -1,5 +1,17 @@
 ﻿[
   {
+    "label": "Cisco Catalyst Center",
+    "icon": "fa-solid fa-server",
+    "url": "https://10.10.20.153/",
+    "action": "newtab"
+  },
+  {
+    "label": "PRTG",
+    "icon": "fa-solid fa-link",
+    "url": "https://10.10.20.155:1616/",
+    "action": "newtab"
+  },
+  {
     "label": "Cradlepoint - Ericsson NetCloud",
     "icon": "fa-solid fa-globe",
     "url": "https://www.us0.cradlepointecm.com/",
@@ -18,12 +30,6 @@
     "action": "newtab"
   },
   {
-    "label": "PRTG",
-    "icon": "fa-solid fa-link",
-    "url": "https://10.10.20.155:1616/",
-    "action": "newtab"
-  },
-  {
     "label": "BM _WLC",
     "icon": "fa-solid fa-wifi",
     "url": "https://10.7.1.2/webui/",
@@ -33,12 +39,6 @@
     "label": "EOC_WLC",
     "icon": "fa-solid fa-wifi",
     "url": "https://10.6.1.2/webui/",
-    "action": "newtab"
-  },
-  {
-    "label": "Cisco Catalyst Center",
-    "icon": "fa-solid fa-server",
-    "url": "https://10.10.20.153/",
     "action": "newtab"
   },
   {
